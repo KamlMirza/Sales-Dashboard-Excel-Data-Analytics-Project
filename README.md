@@ -65,3 +65,8 @@ Utilized Pivot Tables to generate structured summaries for:
 ### Seasonality Patterns
 - Monthly area charts revealed recurring peak sales periods.
 - Insights enable improved inventory planning and workforce allocation during high-demand months.
+
+# Author & Contact
+
+**Kaml Mirza**  
+LinkedIn: www.linkedin.com/in/kaml-mirza-38223034a
